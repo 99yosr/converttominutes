@@ -1,2 +1,2 @@
 # hello
-input number and we will count down from there.
+input number and we will convert to minutes.
